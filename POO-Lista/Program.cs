@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Frederico Guilherme Camilli Proença RA:200925
+
+using System;
 using System.Collections.Generic;
 
 namespace POO_Lista
